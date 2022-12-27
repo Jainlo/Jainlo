@@ -13,6 +13,7 @@ I'm very passionate about data and solving problems with Data Science! I love cr
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/lujain-alghamdi/"><img align="left" src="https://user-images.githubusercontent.com/93212777/209730788-9f66e0f4-a8e9-4743-bc26-8d1b299b3fbb.png" alt="Lujain | LinkedIn" width="21px"/></a>
+</br>
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
@@ -24,7 +25,7 @@ I'm very passionate about data and solving problems with Data Science! I love cr
 
 ## 🌱 I'm currently learning
 
-- Web Scraping
+- Web Scraping using Selenium and Scrapy
 - Business Analytics
 <!--
 **Jainlo/Jainlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
