@@ -5,7 +5,7 @@
 Hi there, I'm Lujain 👋
 </h3>
 <h2 align="center">
-I'm a full-time Data Scientist 💻, part-time Gamer 👩🏻‍💻, and a little bit artistic 🎨!
+I'm a full-time Data Scientist 💻, part-time Gamer 👩🏻‍💻, and a bit of an artist 🎨!
 </h2> 
 
 I'm very passionate about data and solving problems with Data Science! I love creating interesting visualizations and explaining them in an engaging and meaningful story.
