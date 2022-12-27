@@ -11,9 +11,9 @@ I'm a full-time Data Scientist 💻, part-time Gamer 👩🏻‍💻, and a bit 
 I'm a self taught data scientist, very passionate about data and solving problems with Data Science! I love creating interesting visualizations and explaining them through meaningful and engaging story. I take great care for details and code quality of the things I build.
 
 ### 🤝 Connect with me: 
-<a href="https://www.linkedin.com/in/lujain-alghamdi/"><img align="left" src="https://user-images.githubusercontent.com/93212777/209730788-9f66e0f4-a8e9-4743-bc26-8d1b299b3fbb.png" alt="Lujain | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/lujain-alghamdi/"><img src="https://user-images.githubusercontent.com/93212777/209730788-9f66e0f4-a8e9-4743-bc26-8d1b299b3fbb.png" alt="Lujain | LinkedIn" width="21px"/></a>
 </br>
-<a href=" mailto: lujaingh11@outlook.com"><img src="https://user-images.githubusercontent.com/93212777/209735208-d50f30ab-1ab7-4930-a2db-389a0530502b.png" alt="Lujain | Outlook" width="21px"/></a>
+<a href="mailto: lujaingh11@outlook.com"><img src="https://user-images.githubusercontent.com/93212777/209735208-d50f30ab-1ab7-4930-a2db-389a0530502b.png" alt="Lujain | Outlook" width="21px"/></a>
 </br>
 
 ## 🔭 I'm currently working on
