@@ -8,14 +8,14 @@ Hi there, I'm Lujain 👋
 I'm a full-time Data Scientist 💻, part-time Gamer 👩🏻‍💻, and a bit of an artist 🎨!
 </h2> 
 
-I'm very passionate about data and solving problems with Data Science! I love creating interesting visualizations and explaining them in an engaging and meaningful story.
+I'm very passionate about data and solving problems with Data Science! I love creating interesting visualizations and explaining them through meaningful and engaging story.
 
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/lujain-alghamdi/"><img align="left" src="https://user-images.githubusercontent.com/93212777/209730788-9f66e0f4-a8e9-4743-bc26-8d1b299b3fbb.png" alt="Lujain | LinkedIn" width="21px"/></a>
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
-- 
+
 ## 🔭 I'm currently working on
 
 - My old projects
