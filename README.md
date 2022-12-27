@@ -1,7 +1,9 @@
-### Hi there 👋
+<img src ="https://user-images.githubusercontent.com/93212777/209727473-6a17720c-d403-40f0-9155-bab422ec90ba.png" alt="my banner">
+
 
 <!--
 **Jainlo/Jainlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
 Here are some ideas to get you started:
 
