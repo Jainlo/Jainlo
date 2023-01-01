@@ -13,12 +13,11 @@ I'm a self taught data scientist, very passionate about data and solving problem
 ### 🤝 Connect with me: 
 <a href="https://www.linkedin.com/in/lujain-alghamdi/"><img src="https://user-images.githubusercontent.com/93212777/209730788-9f66e0f4-a8e9-4743-bc26-8d1b299b3fbb.png" alt="Lujain | LinkedIn" width="21px"/></a>
 <a href="mailto: lujaingh11@outlook.com"><img src="https://user-images.githubusercontent.com/93212777/209735208-d50f30ab-1ab7-4930-a2db-389a0530502b.png" alt="Lujain | Outlook" width="21px"/></a>
-</br>
 
 ## 🔭 I'm currently working on
 
 - My old projects
-- Tableau Portfolio
+- <a href= "https://public.tableau.com/app/profile/lujain4855/viz/COVID-19GlobalVaccineTracker_16725915653810/GlobalVaccTracker">Tableau Portfolio</a>
 - SQL Portfolio
 
 ## 🌱 I'm currently learning
@@ -26,8 +25,6 @@ I'm a self taught data scientist, very passionate about data and solving problem
 - Web Scraping using Selenium and Scrapy
 - Business Analytics
 <!--
-**Jainlo/Jainlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
